@@ -1,0 +1,1 @@
+Question 1) A school teacher is planning to conduct a quiz competition on identifying the states and their capitals of India. The teacher needs a model through which they can easily conduct the competition.
